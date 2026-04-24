@@ -40,7 +40,7 @@ Both Vms are connected to VMware's Nat network (192.168.61.0/24). The subnet rou
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/vxrshxnovx/tailscale-lab.git>
 cd tailscale-lab
 ```
 
